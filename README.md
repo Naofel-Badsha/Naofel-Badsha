@@ -1,4 +1,4 @@
- https://media.licdn.com/dms/image/v2/D5616AQECvVF2G69JsA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724757356145?e=1730332800&v=beta&t=c5nPsYzwDlBfGM2YFCrlbiEbXSR-goJXVc1ODQQB6x0
+ [As a Junior MERN-stack Web Developer](https://i.ibb.co/yPKbyXg/Blue-and-Black-Simple-Coming-Soon-Banner-9.png)e=1730332800&v=beta&t=c5nPsYzwDlBfGM2YFCrlbiEbXSR-goJXVc1ODQQB6x0
 <h1 align="center">Hi 👋, I'm Naofel Badsha</h1>
 <h3 align="center">As a Junior MERN-stack Web Developer</h3>
 
