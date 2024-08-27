@@ -1,6 +1,8 @@
+
+![As a Junior MERN-stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQECvVF2G69JsA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724757356145?e=1730332800&v=beta&t=c5nPsYzwDlBfGM2YFCrlbiEbXSR-goJXVc1ODQQB6x0)
+
 ### Hi there 👋, I,m Naofel Badsha
 #### As a Junior MERN-stack Web Developer
-![As a Junior MERN-stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQECvVF2G69JsA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724757356145?e=1730332800&v=beta&t=c5nPsYzwDlBfGM2YFCrlbiEbXSR-goJXVc1ODQQB6x0)
 
 I'm a Junior Front End Web Developer with a strong passion for creating dynamic and responsive web applications. With a focus on learning and growing in the field, I enjoy working with technologies like HTML, CSS, JavaScript, Node.js and Express.js. As I continue to develop my skills, I aim to build meaningful projects that make a difference. I'm always eager to collaborate, learn from others, and contribute to the developer community. I thrive on solving complex problems and enjoy the challenge of turning ideas into functional, user-friendly applications. Explore my work, and feel free to connect if you're interested in working together or sharing knowledge!
 
@@ -10,9 +12,6 @@ Skills: HTML / CSS/Tailwind/Bootstrap/Java Script/Figma/  React.js/Node.js/Expre
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Naofel-Badsha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-naofel-badsha//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61550632539237)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/naofelbadsha007//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/NaofelMd25125)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -24,14 +23,8 @@ Skills: HTML / CSS/Tailwind/Bootstrap/Java Script/Figma/  React.js/Node.js/Expre
 
 
  
-<h1 align="center">Hi 👋, I'm Naofel Badsha</h1>
-<h3 align="center">As a Junior MERN-stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naofel-badsha&label=Profile%20views&color=0e75b6&style=flat" alt="naofel-badsha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naofel-badsha" alt="naofel-badsha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/naofel-badsha" target="blank"><img src="https://img.shields.io/twitter/follow/naofel-badsha?logo=twitter&style=for-the-badge" alt="naofel-badsha" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerse](https://bustling-plot.surge.sh/)
 
