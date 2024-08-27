@@ -1,5 +1,5 @@
 
-![As a Junior MERN-stack Web Developer](https://i.ibb.co/M9tBK5y/Blue-and-White-Geometric-Technology-Linkedin-Banner-5.png)
+![As a Junior MERN-stack Web Developer](https://i.ibb.co/prbM96n/Blue-and-White-Geometric-Technology-Linkedin-Banner-2.png)
 
 ### Hi there 👋, I,m Naofel Badsha
 #### As a Junior MERN-stack Web Developer
