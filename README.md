@@ -32,11 +32,7 @@ Skills: HTML/ CSS/ Bootstrap-5/ Tailwind/ Figma/ GitHub/ Java Script/ React.js/ 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naofel-badsha&show_icons=true&locale=en" alt="naofel-badsha" /></p>
-<br>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naofel-badsha&" alt="naofel-badsha" /></p>
