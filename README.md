@@ -5,7 +5,7 @@ I'm a Junior Front End Web Developer with a strong passion for creating dynamic 
 
 Skills: HTML / CSS/Tailwind/Bootstrap/Java Script/Figma/  React.js/Node.js/Express.js/MongoDB
 
-- 🔭 I’m currently working on New and Fresher 
+- 🔭 I’m currently working on New and Fresher  
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
